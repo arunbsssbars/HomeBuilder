@@ -1,0 +1,10 @@
+include: package:flutter_lints/flutter.yaml
+
+analyzer:
+  exclude:
+    - lib/app/router/app_router.dart
+    - test/models_and_cart_test.dart
+    - build/**
+    - ios/**
+    - packages/**
+    - android/**
