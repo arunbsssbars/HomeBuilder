@@ -1,5 +1,5 @@
-name: house_builder_app
-description: "One Stop House Builder App (Delhi-NCR) - Materials, Services & Turnkey Construction Marketplace"
+name: home_builder
+description: "HomeBuilder - Materials, Services & Turnkey Construction Marketplace"
 publish_to: 'none'
 version: 1.0.0+1
 
